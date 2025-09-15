@@ -12,9 +12,12 @@ Built with React Hooks (useState, useEffect, useCallback, useRef) for state mana
 ✅ Uses React hooks for efficient and maintainable code
 
 ⚙️ Tech Stack
+
 React (functional components + hooks)
 Vite (fast dev server and build tool)
 Tailwind CSS (styling and responsive design)
 
 📷 Preview
+
+
 <img width="576" height="627" alt="image" src="https://github.com/user-attachments/assets/031e23f4-515e-420c-869a-76f1b1e79bb3" />
